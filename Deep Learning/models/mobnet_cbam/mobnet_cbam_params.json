@@ -1,0 +1,18 @@
+{
+  "moves": 361,
+  "N": 10000,
+  "start_epoch": 1,
+  "end_epoch": 200,
+  "epochs": 1000,
+  "num_blocks": 24,
+  "batch_size": 64,
+  "filters": 512,
+  "trunk": 128,
+  "learning_rate": 1e-3,
+  "lr_min": 1e-07,
+  "lr_max": 0.01,
+  "annealing": false,
+  "policy_loss_weight": 1.0,
+  "value_loss_weight": 4.0,
+  "drive_path": "/content/drive/My Drive/Dauphine/M2/S1/Deep_Learning/project"
+}
